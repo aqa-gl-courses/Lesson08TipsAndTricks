@@ -1,0 +1,9 @@
+# Data for testing
+url: http://www.seleniumframework.com/
+email: test@test.com
+password: Test1234
+test:
+  testInside: valueInside
+anotherTestKeys:
+  - value1
+  - value2
